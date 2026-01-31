@@ -30,7 +30,7 @@
 ---
 
 <p align="center">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=besma1a&show_icons=true&theme=tokyonight)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=besma1a)](https://github.com/besma1a/github-readme-stats)
 
 
   
