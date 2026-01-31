@@ -25,12 +25,12 @@
 - building **small but clean AI / ML projects**
 - learning to design **automated workflows** that actually save time
 - strengthening **core CS fundamentals** (data structures, logic, problem-solving)
-- pushing projects beyond “it works” → **“people can use this”**
+
 
 ---
 
 <p align="center">
-https://raw.githubusercontent.com/BESMA1A/BESMA1A/main/cat.gif
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=besma1a&show_icons=true&theme=tokyonight)
 
 
   
