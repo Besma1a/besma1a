@@ -1,38 +1,43 @@
-<h2 align="center">Besmala</h2>
-
 <p align="center">
-  Computer Science Student · AI & Software Engineering
-  <br/>
-  <sub>AI • Machine Learning • Automation • n8n</sub>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=50&pause=1000&color=9999FF&center=true&vCenter=true&width=500&height=100&lines=BESMALA" alt="Name" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,git,github,vscode,linux&theme=dark" />
+  <img src="https://media.giphy.com/media/2Til4tYfB4WGZN41E6/giphy.gif" width="600" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=20&pause=1000&color=7C7C7C&center=true&vCenter=true&width=500&lines=Computer+Science+Student;AI+%26+Software+Engineering;Intelligent+Automation" alt="Typing SVG" /></a>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,mysql,linux,git,github,vscode,ae&theme=dark" />
 </p>
 
 ---
 
-### about me
-- 🎓 Computer Science student with a strong interest in **AI-driven systems**
-- 🤖 Focused on **Machine Learning, intelligent automation, and practical AI**
-- ⚙️ Exploring **software engineering** and workflow automation with **n8n**
-- 🧠 I like turning abstract ideas into structured, usable tools  
-- 🎮 Outside tech: gaming, anime, and video editing
+### _background_
+* *Computer Science student specializing in the development of **AI-driven architectures**.*
+* *Focused on the intersection of **Machine Learning** and high-level **Intelligent Automation**.*
+* *Currently engineering autonomous workflows via **n8n** to bridge abstract logic with functional tools.*
+* *Deeply interested in **visual design systems** and the technical art of cinematic editing.*
 
 ---
 
-### what I’m working on
-- building **small but clean AI / ML projects**
-- learning to design **automated workflows** that actually save time
-- strengthening **core CS fundamentals** (data structures, logic, problem-solving)
+### _technical stack_
 
+| _category_ | _technologies_ |
+| :--- | :--- |
+| **Languages** | *Python, JavaScript, HTML/CSS, SQL* |
+| **AI & Data** | *NumPy, Pandas, scikit-learn, Jupyter* |
+| **Engineering** | *Git, n8n, Linux, Docker, FastAPI* |
 
 ---
 
 <p align="center">
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=besma1a)](https://github.com/besma1a/github-readme-stats)
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=7C7C7C&center=true&vCenter=true&width=435&lines=%22Code+is+poetry+in+motion.%22;%22Turning+ideas+into+automated+reality.%22" alt="Typing SVG" />
+</p>
 
-
-  
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=besma1a&color=9999FF&style=flat-square&label=SYSTEM+ACCESS" alt="besma1a" />
 </p>
