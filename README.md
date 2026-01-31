@@ -35,4 +35,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=github_dark" />
+  <img width="568" height="650" alt="image" src="https://github.com/user-attachments/assets/7a752768-7726-48bd-82a7-4c7d15fdb3c2" />
+
 </p>
