@@ -1,16 +1,38 @@
-## Hi there 👋
+<h2 align="center">Besmala</h2>
 
-<!--
-**Besma1a/besma1a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Computer Science Student · AI & Software Engineering
+  <br/>
+  <sub>AI • Machine Learning • Automation • n8n</sub>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,git,github,vscode,linux&theme=dark" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### about me
+- 🎓 Computer Science student with a strong interest in **AI-driven systems**
+- 🤖 Focused on **Machine Learning, intelligent automation, and practical AI**
+- ⚙️ Exploring **software engineering** and workflow automation with **n8n**
+- 🧠 I like turning abstract ideas into structured, usable tools  
+- 🎮 Outside tech: gaming, anime, and video editing
+
+---
+
+### what I’m working on
+- building **small but clean AI / ML projects**
+- learning to design **automated workflows** that actually save time
+- strengthening **core CS fundamentals** (data structures, logic, problem-solving)
+- pushing projects beyond “it works” → **“people can use this”**
+
+---
+
+
+
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=github_dark" />
+</p>
