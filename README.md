@@ -17,10 +17,7 @@
 ---
 
 ### _background_
-* *Computer Science student specializing in the development of **AI-driven architectures**.*
-* *Focused on the intersection of **Machine Learning** and high-level **Intelligent Automation**.*
-* *Currently engineering autonomous workflows via **n8n** to bridge abstract logic with functional tools.*
-* *Deeply interested in **visual design systems** and the technical art of cinematic editing.*
+Computer Science student building AI-driven systems, with a focus on machine learning, intelligent automation, and autonomous workflows using n8n. Interested in visual design systems and cinematic-style editing.
 
 ---
 
@@ -33,10 +30,6 @@
 | **Engineering** | *Git, n8n, Linux, Docker, FastAPI* |
 
 ---
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=7C7C7C&center=true&vCenter=true&width=435&lines=%22Code+is+poetry+in+motion.%22;%22Turning+ideas+into+automated+reality.%22" alt="Typing SVG" />
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=besma1a&color=9999FF&style=flat-square&label=SYSTEM+ACCESS" alt="besma1a" />
