@@ -14,8 +14,6 @@
   <img src="https://skillicons.dev/icons?i=python,fastapi,mysql,linux,git,github,vscode,ae&theme=dark" />
 </p>
 
-
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=besma1a&color=9999FF&style=flat-square&label=SYSTEM+ACCESS" alt="besma1a" />
 </p>
