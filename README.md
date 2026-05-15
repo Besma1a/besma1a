@@ -14,22 +14,7 @@
   <img src="https://skillicons.dev/icons?i=python,fastapi,mysql,linux,git,github,vscode,ae&theme=dark" />
 </p>
 
----
 
-### _background_
-Computer Science student building AI-driven systems, with a focus on machine learning, intelligent automation, and autonomous workflows using n8n. Interested in visual design systems and cinematic-style editing.
-
----
-
-### _technical stack_
-
-| _category_ | _technologies_ |
-| :--- | :--- |
-| **Languages** | *Python, JavaScript, HTML/CSS, SQL* |
-| **AI & Data** | *NumPy, Pandas, scikit-learn, Jupyter* |
-| **Engineering** | *Git, n8n, Linux, Docker, FastAPI* |
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=besma1a&color=9999FF&style=flat-square&label=SYSTEM+ACCESS" alt="besma1a" />
